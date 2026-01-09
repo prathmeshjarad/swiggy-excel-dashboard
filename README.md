@@ -92,4 +92,4 @@ Perform customer segmentation analysis
 
 Prathmesh Jarad
 
-Final Year ENTC Student | Aspiring Data Analyst
+Final Year BE Student | Entry-Level Data Analyst
